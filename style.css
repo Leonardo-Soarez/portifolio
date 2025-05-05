@@ -1,0 +1,50 @@
+body {
+    background-color: darkgray;
+}
+header {
+    background-color: slategrey;
+    padding: 30px 0;
+    text-align: center;
+}
+h1 h2{
+    font-size: 30px;
+    font-weight: auto;
+}
+
+ul {
+    margin: 30px 0;
+    text-align: center;
+}
+
+
+main {
+    padding: 20px 0;
+    text-align: center;
+}
+
+li{
+    margin: 10px 0;
+    padding: 10px 0;    
+    background-color: slategrey;
+    width: 30%;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    ;
+}
+
+footer {
+
+    font-size: 15px;
+    text-align: center;
+}
+
+footer img {
+    width: 100px;
+    margin-bottom:
+}
